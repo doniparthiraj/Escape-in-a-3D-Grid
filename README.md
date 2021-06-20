@@ -15,29 +15,50 @@ Escaped in <x> minute(s).
 where <x> is replaced by the shortest time it takes to escape. If it is not possible to escape, print the line
 Trapped!
 
-Sample Input 1	
+Sample Input 1
+  
 3 4 5
+  
 S....
+  
 .###.
+  
 .##..
+  
 ###.#
+  
 
 #####
+  
 #####
+  
 ##.##
+  
 ##...
+  
 
 #####
+  
 #####
+  
 #.###
+  
 ####E
+  
 
 1 3 3
+  
 S##
+  
 #E#
+  
 ###
+  
 
 0 0 0
+  
 Sample Output 1
+  
 Escaped in 11 minute(s).
+  
 Trapped!
